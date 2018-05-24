@@ -5,7 +5,7 @@
         <Sidebar/>
       </div>
       <div class="product-list-wrap">
-        <h1>Products</h1>
+        <h1>All Products</h1>
         <ProductList category="all"/>
         <!-- <router-link to="/cart" exact>Go to Cart</router-link> -->
       </div>

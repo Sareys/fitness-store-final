@@ -6,7 +6,6 @@ import com.moujib.backend.model.product.Food;
 import com.moujib.backend.model.product.Product;
 import com.moujib.backend.service.product.ProductService;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.ArrayList;

@@ -1,1 +1,2 @@
 com\moujib\backend\BackendApplicationTests.class
+com\moujib\backend\configuration\SpringTestConfiguration.class
